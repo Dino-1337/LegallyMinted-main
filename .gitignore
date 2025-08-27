@@ -1,0 +1,32 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+pubspec.lock
+
+# Build outputs
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Generated files
+*.iml
+*.log
+*.tmp
+*.lock
+*.swp
+*.swo
+*.DS_Store
+
+# IDE specific
+.idea/
+.vscode/
+*.ipr
+*.iws
+
+# Windows/macOS/Linux builds
+windows/
+macos/
+linux/
